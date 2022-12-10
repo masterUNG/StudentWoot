@@ -39,6 +39,10 @@ dependencies:
   buddhist_datetime_dateformat: ^1.0.6
   provider: ^5.0.0
   flutter_launcher_icons: ^0.8.1
+  firebase_messaging:
+  firebase_core:
+  
+
 
 
 flutter_icons:

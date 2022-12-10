@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304869604422",
+    "project_id": "clickstudent-4422d",
+    "storage_bucket": "clickstudent-4422d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304869604422:android:8d169d0e4ccbe037439e47",
+        "android_client_info": {
+          "package_name": "clickcloudschool.com.student_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304869604422-iv5uamvad26ki03icpah1jrcent19e91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSoWG4uTdSoLDh9qonQjmYds5PChnR5Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304869604422-iv5uamvad26ki03icpah1jrcent19e91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
